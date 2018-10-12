@@ -1,5 +1,9 @@
 {
   "license": "UNLICENSED",
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.0",
